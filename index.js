@@ -26,8 +26,8 @@ json.services.forEach(e => {
 
 
      })
-   
-   
+
+
     // for features
 
 
@@ -57,19 +57,22 @@ json.services.forEach(e => {
  
    var div2 = document.createElement('div')
    div2.className = "col-lg-4 col-md-6 d-flex align-items-stretch mb-5 mb-lg-0"
-   div2.innerHTML = currentContent;
-   mainContainer2.appendChild(div);
+   div2.innerHTML = currentContent2;
+   mainContainer2.appendChild(div2);
 
 
 
-});
+})
+
    
    
-   
-   
-   
-   
-    }
+    });
+
+ 
     
     
-    );
+    
+    
+    
+    
+    
